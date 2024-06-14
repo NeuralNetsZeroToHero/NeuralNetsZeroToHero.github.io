@@ -1,5 +1,7 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+> "Reading is faster than listening. Doing is faster than watching." - Naval Ravikant
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This is my attempt at converting the excellent Youtube Series - [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by [Andrej Karparthy](https://karpathy.ai/) to an interactive book. Obviously,any mistakes are mine.
+
+There are many resources available online to learn about Neural Networks, some of them of very high quality. However, when strictly measured on their information density and accessability, this is the best. Many of us have started their career in AI with [CS 231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/), now Andrej is back to inspire the next generation. Hope this is a useful addition to the already exccellent [video series](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) and [code](https://github.com/karpathy/nn-zero-to-hero).Enjoy!

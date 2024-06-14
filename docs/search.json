@@ -1,42 +1,22 @@
 [
   {
+    "objectID": "1_intro.html",
+    "href": "1_intro.html",
+    "title": "1  Building micrograd",
+    "section": "",
+    "text": "Hi this is vinay",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Building micrograd</span>"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ZeroToHero",
+    "title": "Neural Networks: Zero to Hero",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\n\n“Reading is faster than listening. Doing is faster than watching.” - Naval Ravikant\n\nThis is my attempt at converting the excellent Youtube Series - Neural Networks: Zero to Hero by Andrej Karparthy to an interactive book. Obviously,any mistakes are mine.\nThere are many resources available online to learn about Neural Networks, some of them of very high quality. However, when strictly measured on their information density and accessability, this is the best. Many of us have started their career in AI with CS 231n: Convolutional Neural Networks for Visual Recognition, now Andrej is back to inspire the next generation. Hope this is a useful addition to the already exccellent video series and code.Enjoy!",
     "crumbs": [
       "Preface"
-    ]
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
     ]
   }
 ]
